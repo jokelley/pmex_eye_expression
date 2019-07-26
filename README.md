@@ -1,4 +1,4 @@
-# Eye expression analyses Poecilia mexicana
+# Eye expression analyses <i>Poecilia mexicana</i>
 Analyses and data for McGowan <i>et al.</i> 2019 "Expression analyses of cave mollies (<i>Poecilia mexicana</i>) reveal key genes involved in early-stage eye regression". 
 
 
